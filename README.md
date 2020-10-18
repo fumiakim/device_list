@@ -1,3 +1,3 @@
 # device_list
 image.png
-!image.png
+![fdafd](image.png)
