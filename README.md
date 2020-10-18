@@ -1,3 +1,3 @@
 # device_list
-image.png
-![](フルカラーLEDボード.png)
+
+![フルカラーLEDボード（マトリクス型）](フルカラーLEDボード.png)
